@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -38,7 +38,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Beginning
 
     interests:
       title: Interests
@@ -69,20 +69,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: BSc in  Computer Science
-        university: Universidad de las Ciencias Informáticas. La Habana - Cuba
-        time: 2009 - 2016
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: Middle Technician in Computer Science
-        university: Instituto Politécnico de Informáticas - Mariana Grajales Cuello. Santiago de Cuba - Cuba.
-        time: 2005 - 2008
+      - degree: Doctor in Medicine
+        university: University of Medical Sciences "Celia Sanchez". Granma - Cuba
+        time: 2008 - 2015
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,23 +81,13 @@ education:
             - Bullet point
             - Bullet point
 
+
 experiences:
     title: Experiences
     info:
-      - role: Junior DevOps
-        time: 2021 - 2022
-        company: UCI, La Habana, Cuba
-        details: |
-          UCI is an University and a software company, that develops digital governance software for the government, ministries, large medium and small companies.
-          - Developed and maintained CI/CD pipelines for code deployment using GitLab, gitlab-runner. Developed build and deployment processes for Testing, Pre-production and Production environments.
-          - Build and deployed Docker containers for implementing Microservice Architecture from Monolithic Architectur.
-          - Installed and configured Portainer to manage Docker containers.
-          - Installed, configured and managed Gitlab Server.
-          - Managed and designed Branch Strategies.
-          - Communication: Ability to explain technical concepts clearly and effectively to both technical and non-technical colleagues.
-      - role: System Administration
+      - role: Doctor in medicine General
         time: 2017 - 2021
-        company: UCI, La Habana, Cuba
+        company: Polyclinic Gustavo Aldereguia Lima, Granma, Cuba
         details: |
          UCI is and University and a Cuban software company, that develops digital governance software for the government, ministries, large medium and small companies.
           - Experienced in Installing, Upgrading, Configuring and Administering Linux (Ubuntu, Debian).
@@ -125,25 +104,101 @@ experiences:
           - Problem Solving: Ability to analyze and solve complex technical problems efficiently and creatively.
           - Teamwork: Collaborated with interdisciplinary teams to implement infrastructure solutions and solve technical problems.
 
+      - role: Resident Doctor of Integral General Medicine
+        time: 2015 - 2017
+        company: Policlinic Vicor Cortina Aruz, Ganma, Cuba
+        details: |
+          UCI is an University and a software company, that develops digital governance software for the government, ministries, large medium and small companies.
+          - Developed and maintained CI/CD pipelines for code deployment using GitLab, gitlab-runner. Developed build and deployment processes for Testing, Pre-production and Production environments.
+          - Build and deployed Docker containers for implementing Microservice Architecture from Monolithic Architectur.
+          - Installed and configured Portainer to manage Docker containers.
+          - Installed, configured and managed Gitlab Server.
+          - Managed and designed Branch Strategies.
+          - Communication: Ability to explain technical concepts clearly and effectively to both technical and non-technical colleagues.
+
 
 certifications:
       title: Certifications
       list:
-        - name: Linux Essentials
-          start: 2021
-          end: 2021
+        - name: Doctor in Medicine
+          start: 2008
+          end: 2015
           organization: Linux Profesional Institute
           credentialid: LPI000508708
           credentialurl: lpi.org/v/LPI000508708/x5u744rc72
           credentialname: LE-1 Linux Essentials
           details: |
-            Linux adoption continues to rise world-wide as individual users, government entities and industries ranging from automotive to space exploration embrace open source technologies. This expansion of open source in enterprise is redefining traditional Information and Communication Technology (ICT) job roles to require more Linux skills. Whether you’re starting your career in open source, or looking for advancement, independently verifying your skill set can help you stand out to hiring managers or your management team.
-            The Linux Essentials certificate also serves as a great introduction to the more complete and advanced Linux Professional certification track.
-            To receive the Linux Essentials certificate the candidate must:
-            - have an understanding of the Linux and open source industry and knowledge of the most popular open source Applications;
-            - understand the major components of the Linux operating system, and have the technical proficiency to work on the Linux command line; and
-            - have a basic understanding of security and administration related topics such as user/group management, working on the command line, and permissions.
+            Linux 
+            
+        - name: First Degree in Comprehensive General Medicine
+          start: 2015
+          end: 2017
+          organization: Linux Profesional Institute
+          credentialid: LPI000508708
+          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
+          credentialname: LE-1 Linux Essentials
+          details: |
+            Linux
+            
+        - name: Diploma Eunice Gynecology and Obstetrics
+          start: 2015
+          end: 2017
+          organization: Linux Profesional Institute
+          credentialid: LPI000508708
+          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
+          credentialname: LE-1 Linux Essentials
+          details: |
+            Linux 
+            
+        - name: Acreditac in Family Panning Infertily
+          start: 2015
+          end: 2017
+          organization: Linux Profesional Institute
+          credentialid: LPI000508708
+          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
+          credentialname: LE-1 Linux Essentials
+          details: |
+            Linux 
+            
+        - name: Basic Life Support (CPR and AED)
+          start: 2023
+          end: 2023
+          organization: Linux Profesional Institute
+          credentialid: LPI000508708
+          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
+          credentialname: LE-1 Linux Essentials
+          details: |
+            Linux
 
+        - name: Electrocardiograph Technicians
+          start: 2023
+          end: 2023
+          organization: Linux Profesional Institute
+          credentialid: LPI000508708
+          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
+          credentialname: LE-1 Linux Essentials
+          details: |
+            Linux
+            
+        - name: Medical Assistants
+          start: 2023
+          end: 2023
+          organization: Linux Profesional Institute
+          credentialid: LPI000508708
+          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
+          credentialname: LE-1 Linux Essentials
+          details: |
+            Linux 
+            
+        - name: Phlebotomy Technology
+          start: 2023
+          end: 2023
+          organization: Linux Profesional Institute
+          credentialid: LPI000508708
+          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
+          credentialname: LE-1 Linux Essentials
+          details: |
+            Linux 
             
 projects:
     title: Projects
@@ -217,29 +272,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux
-        level: 60%
+      - name: CPR and AED
+        level: 100%
 
-      - name: Bash
-        level: 45%
+      - name: Electrocardiograph technicians
+        level: 100%
 
-      - name: SVN
-        level: 40%
-
-      - name: Docker
-        level: 35%
-
-      - name: GitLab
-        level: 35%
-
-      - name: Git
-        level: 25%
+      - name: Medical Assistants
+        level: 100%
         
-      - name: Prometheus
-        level: 15%
-        
-      - name: Grafana
-        level: 15%
+      - name: Phlebotomy Technology 
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
