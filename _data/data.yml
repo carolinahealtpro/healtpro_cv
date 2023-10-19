@@ -123,22 +123,22 @@ certifications:
         - name: Doctor in Medicine
           start: 2008
           end: 2015
-          organization: Linux Profesional Institute
-          credentialid: LPI000508708
-          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
-          credentialname: LE-1 Linux Essentials
+          organization: Granma University of Medical Sciences
+          credentialid: TIII-F304V-N18218
+          credentialurl: carolinahealtpro.github.io/healtpro_cv/assets/pdf/doctora%20y%20medicina.jpg
+          credentialname: Dr.M.
           details: |
-            Linux 
+             
             
         - name: First Degree in Comprehensive General Medicine
           start: 2015
           end: 2017
-          organization: Linux Profesional Institute
-          credentialid: LPI000508708
-          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
-          credentialname: LE-1 Linux Essentials
+          organization: Granma University of Medical Sciences
+          credentialid: TI-F051V-N3044
+          credentialurl: carolinahealtpro.github.io/healtpro_cv/assets/pdf/primer%20grado%20en%20medecina%20general%20integral.jpg
+          credentialname: Comprehensive General Medicine
           details: |
-            Linux
+            
             
         - name: Diploma Eunice Gynecology and Obstetrics
           start: 2015
@@ -148,7 +148,7 @@ certifications:
           credentialurl: lpi.org/v/LPI000508708/x5u744rc72
           credentialname: LE-1 Linux Essentials
           details: |
-            Linux 
+             
             
         - name: Acreditac in Family Panning Infertily
           start: 2015
@@ -158,47 +158,47 @@ certifications:
           credentialurl: lpi.org/v/LPI000508708/x5u744rc72
           credentialname: LE-1 Linux Essentials
           details: |
-            Linux 
+             
             
-        - name: Basic Life Support (CPR and AED)
+        - name: Basic Life Support
           start: 2023
-          end: 2023
-          organization: Linux Profesional Institute
-          credentialid: LPI000508708
-          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
-          credentialname: LE-1 Linux Essentials
+          end: 2025
+          organization: America Heart Association
+          credentialid: 245411346384
+          credentialurl: carolinahealtpro.github.io/healtpro_cv/assets/pdf/Basic%20Life%20Support.pdf
+          credentialname: CPR and AED
           details: |
-            Linux
+            
 
         - name: Electrocardiograph Technicians
           start: 2023
-          end: 2023
-          organization: Linux Profesional Institute
-          credentialid: LPI000508708
-          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
-          credentialname: LE-1 Linux Essentials
+          end: 2024
+          organization: Healtcare Professionals Registry of the United States  
+          credentialid: 2023098128808
+          credentialurl: carolinahealtpro.github.io/healtpro_cv/assets/pdf/Electrocardiograph%20Technicians%20Coralina%20Diaz.pdf
+          credentialname: EKG
           details: |
-            Linux
+             
             
-        - name: Medical Assistants
+        - name: Medical Assistants 
           start: 2023
           end: 2023
-          organization: Linux Profesional Institute
-          credentialid: LPI000508708
-          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
-          credentialname: LE-1 Linux Essentials
+          organization: Healtcare Professionals Registry of the United States
+          credentialid: 2023098128806
+          credentialurl: carolinahealtpro.github.io/healtpro_cv/assets/pdf/Medical%20Assistants%20Coralina%20Diaz.pdf
+          credentialname: RMA
           details: |
-            Linux 
+             
             
         - name: Phlebotomy Technology
           start: 2023
           end: 2023
-          organization: Linux Profesional Institute
-          credentialid: LPI000508708
-          credentialurl: lpi.org/v/LPI000508708/x5u744rc72
-          credentialname: LE-1 Linux Essentials
+          organization: Healtcare Professionals Registry of the United States
+          credentialid: 2023098128807
+          credentialurl: carolinahealtpro.github.io/healtpro_cv/assets/pdf/Phlebotomy%20Technology%20Coralina%20Diaz.pdf
+          credentialname: RPT
           details: |
-            Linux 
+             
             
 projects:
     title: Projects
